@@ -2,17 +2,21 @@
 
 # Hi, I'm Yassine Aalouch 👋
 
-### Software Engineer | Full-Stack Developer | AI Systems Builder
+### Software Engineer | ML & AI Engineer
 
 *Building scalable products and adaptive AI systems — from SaaS platforms to local-first agentic orchestration*
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Full-Stack+Developer;AI+%26+Agent+Systems;Edge+AI+%7C+SLMs+%7C+RAG;Open+to+Opportunities&center=true&vCenter=true&color=22c55e&size=25)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;ML+%26+AI+Engineer;Edge+AI+%7C+SLMs+%7C+RAG;Open+to+Opportunities&center=true&vCenter=true&color=22c55e&size=25)
 
 ---
 
 ### 🐍 My GitHub Contributions as Snake Game!
 
-![snake gif](https://raw.githubusercontent.com/yassineaalouch/yassineaalouch/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassineaalouch/yassineaalouch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassineaalouch/yassineaalouch/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yassineaalouch/yassineaalouch/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -56,6 +60,24 @@ Software Engineer with an Engineering Degree in Computer Science (AIAC). I desig
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### AI / Data / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-000000?style=for-the-badge&logo=openai&logoColor=white)
+![sounddevice](https://img.shields.io/badge/sounddevice-1DB954?style=for-the-badge&logo=soundcloud&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -66,24 +88,10 @@ Software Engineer with an Engineering Degree in Computer Science (AIAC). I desig
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### AI / Data / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -109,8 +117,6 @@ Software Engineer with an Engineering Degree in Computer Science (AIAC). I desig
 | **H-OSAR** | Local-first multimodal agent orchestrator — adaptive edge–cloud task placement, observe–act–verify loops, auditable traces |
 | **AI Research Paper Assistant** | Multimodal RAG for scientific papers — vision-aware ingestion, FAISS retrieval, grounded Q&A with evaluation |
 | **MyPremiumSchool** | Secure learning SaaS (2k+ DAU) — web, desktop & mobile, custom streaming, fingerprinting & watermarking |
-| **MoroccoMiles** | Multi-tenant car rental marketplace — RBAC, bookings, agency dashboards |
-| **Freelance E-commerce** | High-traffic shops (10k+ monthly users) — WebP pipelines, inventory automation, admin dashboards |
 
 📍 Portfolio: [yassine-aalouch.vercel.app](https://yassine-aalouch.vercel.app/)
 
@@ -140,13 +146,6 @@ Advanced Mathematics & Physics
 
 ---
 
-## 💼 Experience Snapshot
-
-**Full-Stack Developer Intern — AGILIX** *(Feb 2025 – Sept 2025)*  
-Stock management platform that cut inventory processing from ~3 hours to ~40 minutes · Meta Conversions API · Zod + Vitest · Agile delivery
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -164,7 +163,7 @@ Stock management platform that cut inventory processing from ~3 hours to ~40 min
 
 <div align="center">
 
-*💡 Open to opportunities in Software Engineering, Full-Stack Development, and Applied AI*
+*💡 Open to opportunities in Software Engineering and ML & AI Engineering*
 
 *Feel free to reach out via [LinkedIn](https://linkedin.com/in/yassine-aalouch) or [email](mailto:yassine.aalouch@aiac.ma)!*
 
